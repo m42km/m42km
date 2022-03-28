@@ -1,5 +1,5 @@
 - hiii im mark! :D
-- 13yo programmer (mainly python) looking to make a lot of stuff.
+- Python programmer looking to make a lot of stuff.
 - i am interested in geometry dash and rhythm games
 - contact me on twitter @m4rk7001
 
